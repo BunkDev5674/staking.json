@@ -1,29 +1,29 @@
 {
     "content": {
         "sub_heading": "Project",
-        "heading": "Earn Passive Income",
-        "excerpt": "Earn profits from our Game of chance products, Raffles and Scratch cards. As a Pesky Kanga or Kanga Degen NFT holder. You earn 100% of Ecosystem profits.",
+        "heading": "Multi-chain IGOs",
+        "excerpt": "Join IGOs on multiple blockchains in a single click. Support game by providing LP or just stake the game and get rewards.",
         "contentData": [
             {
                 "id": 1,
-                "icon": "fa-solid fa-trophy",
+                "icon": "fa-brands fa-discord",
                 "featured": "",
-                "title": "Win Big Prizes",
-                "content": "Have the chance to win huge prizes through our Raffles & Scratch cards"
+                "title": "Submit KYC",
+                "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested."
             },
             {
                 "id": 2,
                 "icon": "fa-brands fa-hotjar",
                 "featured": "featured",
-                "title": "Earn Income from shilling",
-                "content": "Earn Cro by shilling the future NFT projects! Everytime someone uses your referal link earn Cro (Coming soon)"
+                "title": "Verify Wallet",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
             },
             {
                 "id": 3,
                 "icon": "fa-solid fa-rocket",
                 "featured": "",
                 "title": "Start Staking",
-                "content": "Lock up some tokens and earn more tokens"
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page."
             }
         ]
     },
@@ -55,10 +55,10 @@
         "sub_heading": "How It Works",
         "heading": "How To Participate",
         "img": "/img/cta_thumb.png",
-        "title": "Join the Pesky Kanga Discord",
-        "content": "Join if your daring enough!.",
-        "btn": "Join Now",
-        "btnIcon": "fa-brands fa-discord"
+        "title": "Apply for IGO",
+        "content": "Get access to huge set of tools to seamlessly handle your game's integration with blockchain.",
+        "btn": "Apply Now",
+        "btnIcon": "icon-rocket mr-2"
     },
     "staking": {
         "heading": "Participate IGO Stake",
@@ -166,18 +166,18 @@
     },
     "footer": {
         "img": "/img/logo.png",
-        "copyright": "©2022 Roo Finance, All Rights Reserved By",
-        "owner": "Roo Finance",
-        "ownerLink": "https://Roo.finance",
+        "copyright": "©2022 Gameon, All Rights Reserved By",
+        "owner": "Themeland",
+        "ownerLink": "https://themeforest.net/user/theme_land",
         "socialData": [
             {
                 "id": 1,
-                "link": "https://www.facebook.com/RooFinance",
+                "link": "https://www.facebook.com/",
                 "icon": "icon-social-facebook"
             },
             {
                 "id": 2,
-                "link": "https://twitter.com/RooFinance",
+                "link": "https://twitter.com/",
                 "icon": "icon-social-twitter"
             },
             {
@@ -187,24 +187,24 @@
             },
             {
                 "id": 4,
-                "link": "https://www.reddit.com/RooFinance",
+                "link": "https://www.reddit.com/",
                 "icon": "icon-social-reddit"
             },
             {
                 "id": 5,
-                "link": "https://discord.gg/Brs7PsduFY",
+                "link": "https://discord.com/",
                 "icon": "icon-social-vkontakte"
             },
             {
                 "id": 6,
-                "link": "https://www.youtube.com/RooFinance",
+                "link": "https://www.youtube.com/",
                 "icon": "icon-social-youtube"
             }
         ],
         "widgetData": [
             {
                 "id": 1,
-                "text": "Projects",
+                "text": "Features",
                 "link": "/blog"
             },
             {
@@ -214,7 +214,7 @@
             },
             {
                 "id": 3,
-                "text": "Staking",
+                "text": "How It Works",
                 "link": "/blog"
             },
             {
@@ -224,7 +224,7 @@
             },
             {
                 "id": 5,
-                "text": "Apply for Launch",
+                "text": "Privacy Policy",
                 "link": "/blog"
             }
         ]
