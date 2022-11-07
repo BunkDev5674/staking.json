@@ -182,24 +182,20 @@
             },
             {
                 "id": 3,
-                "link": "https://www.linkedin.com/RooFinance",
-                "icon": "fa-brands fa-medium"
-            },
-            {
-                "id": 4,
                 "link": "https://www.reddit.com/RooFinance",
                 "icon": "icon-social-reddit"
             },
             {
-                "id": 5,
+                "id": 4,
                 "link": "https://discord.com/RooFinance",
                 "icon": "icon-social-vkontakte"
             },
             {
-                "id": 6,
+                "id": 5,
                 "link": "https://www.youtube.com/RooFinance",
                 "icon": "icon-social-youtube"
-            }
+            },
+           
         ],
         "widgetData": [
             {
