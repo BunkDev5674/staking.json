@@ -6,7 +6,7 @@
         "contentData": [
             {
                 "id": 1,
-                "icon": "fa-brands fa-discord",
+                "icon": "fa-solid fa-trophy",
                 "featured": "",
                 "title": "Win Big Prizes ",
                 "content": "Have the chance to win huge prizes through our Raffles & Scratch cards."
@@ -58,7 +58,7 @@
         "title": "Join the discord",
         "content": "Join if your daring enough",
         "btn": "Apply Now",
-        "btnIcon": "icon-rocket mr-2"
+        "btnIcon": "fa-brands fa-discord"
     },
     "staking": {
         "heading": "Participate IGO Stake",
