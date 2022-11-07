@@ -1,29 +1,29 @@
 {
     "content": {
         "sub_heading": "Project",
-        "heading": "Multi-chain IGOs",
-        "excerpt": "Join IGOs on multiple blockchains in a single click. Support game by providing LP or just stake the game and get rewards.",
+        "heading": "Earn Passive Income",
+        "excerpt": "Earn profits from our Game of chance products, Raffles and Scratch cards. As a Pesky Kanga or Kanga Degen NFT holder. You earn 100% of Ecosystem profits.",
         "contentData": [
             {
                 "id": 1,
                 "icon": "fa-brands fa-discord",
                 "featured": "",
-                "title": "Submit KYC",
-                "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested."
+                "title": "Win Big Prizes ",
+                "content": "Have the chance to win huge prizes through our Raffles & Scratch cards."
             },
             {
                 "id": 2,
                 "icon": "fa-brands fa-hotjar",
                 "featured": "featured",
-                "title": "Verify Wallet",
-                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
+                "title": "Earn Income from shilling",
+                "content": "Earn Cro by shilling the future NFT projects! Everytime someone uses your referal link earn Cro (Coming soon)"
             },
             {
                 "id": 3,
                 "icon": "fa-solid fa-rocket",
                 "featured": "",
                 "title": "Start Staking",
-                "content": "It is a long established fact that a reader will be distracted by the readable content of a page."
+                "content": "Lock up some tokens and earn some high APR"
             }
         ]
     },
@@ -55,8 +55,8 @@
         "sub_heading": "How It Works",
         "heading": "How To Participate",
         "img": "/img/cta_thumb.png",
-        "title": "Apply for IGO",
-        "content": "Get access to huge set of tools to seamlessly handle your game's integration with blockchain.",
+        "title": "Join the discord",
+        "content": "Join if your daring enough",
         "btn": "Apply Now",
         "btnIcon": "icon-rocket mr-2"
     },
@@ -166,38 +166,38 @@
     },
     "footer": {
         "img": "/img/logo.png",
-        "copyright": "©2022 Gameon, All Rights Reserved By",
-        "owner": "Themeland",
-        "ownerLink": "https://themeforest.net/user/theme_land",
+        "copyright": "©2022 Roo Finance, All Rights Reserved By",
+        "owner": "Roo Finance",
+        "ownerLink": "https://Roo.Finance",
         "socialData": [
             {
                 "id": 1,
-                "link": "https://www.facebook.com/",
+                "link": "https://www.facebook.com/RooFinance",
                 "icon": "icon-social-facebook"
             },
             {
                 "id": 2,
-                "link": "https://twitter.com/",
+                "link": "https://twitter.com/RooFinance",
                 "icon": "icon-social-twitter"
             },
             {
                 "id": 3,
-                "link": "https://www.linkedin.com/",
+                "link": "https://www.linkedin.com/RooFinance",
                 "icon": "icon-social-linkedin"
             },
             {
                 "id": 4,
-                "link": "https://www.reddit.com/",
+                "link": "https://www.reddit.com/RooFinance",
                 "icon": "icon-social-reddit"
             },
             {
                 "id": 5,
-                "link": "https://discord.com/",
+                "link": "https://discord.com/RooFinance",
                 "icon": "icon-social-vkontakte"
             },
             {
                 "id": 6,
-                "link": "https://www.youtube.com/",
+                "link": "https://www.youtube.com/RooFinance",
                 "icon": "icon-social-youtube"
             }
         ],
