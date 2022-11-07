@@ -55,9 +55,9 @@
         "sub_heading": "How It Works",
         "heading": "How To Participate",
         "img": "/img/cta_thumb.png",
-        "title": "Apply for IGO",
-        "content": "Get access to huge set of tools to seamlessly handle your game's integration with blockchain.",
-        "btn": "Apply Now",
+        "title": "Join the Pesky Kanga Discord",
+        "content": "Join the gang - If your daring enough",
+        "btn": "Join Discord",
         "btnIcon": "icon-rocket mr-2"
     },
     "staking": {
@@ -167,37 +167,37 @@
     "footer": {
         "img": "/img/logo.png",
         "copyright": "©2022 Roo Finance, All Rights Reserved By",
-        "owner": "Themeland",
-        "ownerLink": "https://themeforest.net/user/theme_land",
+        "owner": "Roo Finance",
+        "ownerLink": "https://Roo.Finance",
         "socialData": [
             {
                 "id": 1,
-                "link": "https://www.facebook.com/",
+                "link": "https://www.facebook.com/RooFinance",
                 "icon": "icon-social-facebook"
             },
             {
                 "id": 2,
-                "link": "https://twitter.com/",
+                "link": "https://twitter.com/RooFinance",
                 "icon": "icon-social-twitter"
             },
             {
                 "id": 3,
-                "link": "https://www.linkedin.com/",
+                "link": "https://www.linkedin.com/RooFinance",
                 "icon": "icon-social-linkedin"
             },
             {
                 "id": 4,
-                "link": "https://www.reddit.com/",
+                "link": "https://www.reddit.com/RooFinance",
                 "icon": "icon-social-reddit"
             },
             {
                 "id": 5,
-                "link": "https://discord.com/",
+                "link": "https://discord.gg/Brs7PsduFY",
                 "icon": "icon-social-vkontakte"
             },
             {
                 "id": 6,
-                "link": "https://www.youtube.com/",
+                "link": "https://www.youtube.com/RooFinance",
                 "icon": "icon-social-youtube"
             }
         ],
