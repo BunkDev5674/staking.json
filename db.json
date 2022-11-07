@@ -1,69 +1,69 @@
 {
     "content": {
         "sub_heading": "Project",
-        "heading": "Multi-chain IGOsttrtr",
+        "heading": "Multi-chain IGOs",
         "excerpt": "Join IGOs on multiple blockchains in a single click. Support game by providing LP or just stake the game and get rewards.",
         "contentData": [
             {
                 "id": 1,
                 "icon": "fa-brands fa-discord",
                 "featured": "",
-                "title": "Submit KYCtrtrtr",
+                "title": "Submit KYC",
                 "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested."
             },
             {
                 "id": 2,
                 "icon": "fa-brands fa-hotjar",
-                "featured": "featuredrttrtr",
-                "title": "Verify Wallettrt",
-                "content": "trtrtrThere are many variations of passages of Lorem Ipsum available, but the majority have suffered."
+                "featured": "featured",
+                "title": "Verify Wallet",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
             },
             {
                 "id": 3,
                 "icon": "fa-solid fa-rocket",
                 "featured": "",
-                "title": "trtrtStart Staking",
-                "content": "trrttrIt is a long established fact that a reader will be distracted by the readable content of a page."
+                "title": "Start Staking",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page."
             }
         ]
     },
     "work": {
-        "sub_heading": "trtrtrHow It Works",
-        "heading": "rttrtHow To Participate",
+        "sub_heading": "How It Works",
+        "heading": "How To Participate",
         "workData": [
             {
                 "id": 1,
                 "icon": "icons icon-drawer text-effect",
-                "title": "Srtrtrttrubmit KYC",
-                "content": "trtrtAt vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
+                "title": "Submit KYC",
+                "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
             },
             {
                 "id": 2,
                 "icon": "icons icon-wallet text-effect",
-                "title": "rttrtrVerify Wallet",
-                "content": "trtrtrSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
+                "title": "Verify Wallet",
+                "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
             },
             {
                 "id": 3,
                 "icon": "icons icon-fire text-effect",
-                "title": "ertetretrStart Staking",
+                "title": "Start Staking",
                 "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
             }
         ]
     },
     "cta": {
-        "sub_heading": "erttretrHow It Works",
-        "heading": "etertrtHow To Participate",
+        "sub_heading": "How It Works",
+        "heading": "How To Participate",
         "img": "/img/cta_thumb.png",
-        "title": "tertrrtJoin the Pesky Kanga Discord",
-        "content": "Join the gang - If your daring enough",
-        "btn": "Join Discord",
+        "title": "Apply for IGO",
+        "content": "Get access to huge set of tools to seamlessly handle your game's integration with blockchain.",
+        "btn": "Apply Now",
         "btnIcon": "icon-rocket mr-2"
     },
     "staking": {
-        "heading": "etrteretrParticipate IGO Stake",
-        "balance": "etrtetr256.50 BUSD",
-        "content": "ettrertOnce staked, you need to register for every IDO, so we can calculate the guaranteed allocation. Once registered, we lock your tokens, but you still can participate in other IDOs.",
+        "heading": "Participate IGO Stake",
+        "balance": "256.50 BUSD",
+        "content": "Once staked, you need to register for every IDO, so we can calculate the guaranteed allocation. Once registered, we lock your tokens, but you still can participate in other IDOs.",
         "note": "*APY is dynamic.",
         "input_btn_1": "Approve",
         "input_btn_2": "Withdraw",
@@ -166,38 +166,38 @@
     },
     "footer": {
         "img": "/img/logo.png",
-        "copyright": "©2022 Roo Finance, All Rights Reserved By",
-        "owner": "Roo Finance",
-        "ownerLink": "https://Roo.Finance",
+        "copyright": "©2022 Gameon, All Rights Reserved By",
+        "owner": "Themeland",
+        "ownerLink": "https://themeforest.net/user/theme_land",
         "socialData": [
             {
                 "id": 1,
-                "link": "https://www.facebook.com/RooFinance",
+                "link": "https://www.facebook.com/",
                 "icon": "icon-social-facebook"
             },
             {
                 "id": 2,
-                "link": "https://twitter.com/RooFinance",
+                "link": "https://twitter.com/",
                 "icon": "icon-social-twitter"
             },
             {
                 "id": 3,
-                "link": "https://www.linkedin.com/RooFinance",
+                "link": "https://www.linkedin.com/",
                 "icon": "icon-social-linkedin"
             },
             {
                 "id": 4,
-                "link": "https://www.reddit.com/RooFinance",
+                "link": "https://www.reddit.com/",
                 "icon": "icon-social-reddit"
             },
             {
                 "id": 5,
-                "link": "https://discord.gg/Brs7PsduFY",
+                "link": "https://discord.com/",
                 "icon": "icon-social-vkontakte"
             },
             {
                 "id": 6,
-                "link": "https://www.youtube.com/RooFinance",
+                "link": "https://www.youtube.com/",
                 "icon": "icon-social-youtube"
             }
         ],
