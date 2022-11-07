@@ -1,69 +1,69 @@
 {
     "content": {
         "sub_heading": "Project",
-        "heading": "Multi-chain IGOs",
+        "heading": "Multi-chain IGOsttrtr",
         "excerpt": "Join IGOs on multiple blockchains in a single click. Support game by providing LP or just stake the game and get rewards.",
         "contentData": [
             {
                 "id": 1,
                 "icon": "fa-brands fa-discord",
                 "featured": "",
-                "title": "Submit KYC",
+                "title": "Submit KYCtrtrtr",
                 "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested."
             },
             {
                 "id": 2,
                 "icon": "fa-brands fa-hotjar",
-                "featured": "featured",
-                "title": "Verify Wallet",
-                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
+                "featured": "featuredrttrtr",
+                "title": "Verify Wallettrt",
+                "content": "trtrtrThere are many variations of passages of Lorem Ipsum available, but the majority have suffered."
             },
             {
                 "id": 3,
                 "icon": "fa-solid fa-rocket",
                 "featured": "",
-                "title": "Start Staking",
-                "content": "It is a long established fact that a reader will be distracted by the readable content of a page."
+                "title": "trtrtStart Staking",
+                "content": "trrttrIt is a long established fact that a reader will be distracted by the readable content of a page."
             }
         ]
     },
     "work": {
-        "sub_heading": "How It Works",
-        "heading": "How To Participate",
+        "sub_heading": "trtrtrHow It Works",
+        "heading": "rttrtHow To Participate",
         "workData": [
             {
                 "id": 1,
                 "icon": "icons icon-drawer text-effect",
-                "title": "Submit KYC",
-                "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
+                "title": "Srtrtrttrubmit KYC",
+                "content": "trtrtAt vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
             },
             {
                 "id": 2,
                 "icon": "icons icon-wallet text-effect",
-                "title": "Verify Wallet",
-                "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
+                "title": "rttrtrVerify Wallet",
+                "content": "trtrtrSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
             },
             {
                 "id": 3,
                 "icon": "icons icon-fire text-effect",
-                "title": "Start Staking",
+                "title": "ertetretrStart Staking",
                 "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
             }
         ]
     },
     "cta": {
-        "sub_heading": "How It Works",
-        "heading": "How To Participate",
+        "sub_heading": "erttretrHow It Works",
+        "heading": "etertrtHow To Participate",
         "img": "/img/cta_thumb.png",
-        "title": "Join the Pesky Kanga Discord",
+        "title": "tertrrtJoin the Pesky Kanga Discord",
         "content": "Join the gang - If your daring enough",
         "btn": "Join Discord",
         "btnIcon": "icon-rocket mr-2"
     },
     "staking": {
-        "heading": "Participate IGO Stake",
-        "balance": "256.50 BUSD",
-        "content": "Once staked, you need to register for every IDO, so we can calculate the guaranteed allocation. Once registered, we lock your tokens, but you still can participate in other IDOs.",
+        "heading": "etrteretrParticipate IGO Stake",
+        "balance": "etrtetr256.50 BUSD",
+        "content": "ettrertOnce staked, you need to register for every IDO, so we can calculate the guaranteed allocation. Once registered, we lock your tokens, but you still can participate in other IDOs.",
         "note": "*APY is dynamic.",
         "input_btn_1": "Approve",
         "input_btn_2": "Withdraw",
