@@ -6,7 +6,7 @@
         "contentData": [
             {
                 "id": 1,
-                "icon": "fa-solid fa-trophy",
+                "icon": "fa-brands fa-discord",
                 "featured": "",
                 "title": "Win Big Prizes ",
                 "content": "Have the chance to win huge prizes through our Raffles & Scratch cards."
@@ -58,7 +58,7 @@
         "title": "Join the discord",
         "content": "Join if your daring enough",
         "btn": "Apply Now",
-        "btnIcon": "fa-brands fa-discord"
+        "btnIcon": "icon-rocket mr-2"
     },
     "staking": {
         "heading": "Participate IGO Stake",
@@ -182,20 +182,24 @@
             },
             {
                 "id": 3,
+                "link": "https://www.linkedin.com/RooFinance",
+                "icon": "icon-social-linkedin"
+            },
+            {
+                "id": 4,
                 "link": "https://www.reddit.com/RooFinance",
                 "icon": "icon-social-reddit"
             },
             {
-                "id": 4,
+                "id": 5,
                 "link": "https://discord.com/RooFinance",
                 "icon": "icon-social-vkontakte"
             },
             {
-                "id": 5,
+                "id": 6,
                 "link": "https://www.youtube.com/RooFinance",
                 "icon": "icon-social-youtube"
-            },
-           
+            }
         ],
         "widgetData": [
             {
