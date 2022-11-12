@@ -63,7 +63,7 @@
     "staking": {
         "heading": "Roo Stake",
         "balance": "TBC",
-        "content": "Once staked, Your tokens are locked until the selected time,
+        "content": "Once staked, Your tokens are locked until the selected time",
         "note": "*APR is dynamic.",
         "input_btn_1": "Approve",
         "input_btn_2": "Withdraw",
