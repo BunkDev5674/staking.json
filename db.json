@@ -205,22 +205,22 @@
             {
                 "id": 1,
                 "text": "Projects",
-                "link": "/blog"
+                "link": "/projects"
             },
             {
                 "id": 2,
                 "text": "Roadmap",
-                "link": "/blog"
+                "link": "https://roo-finance.gitbook.io/roadmap./"
             },
             {
                 "id": 3,
                 "text": "Staking",
-                "link": "/blog"
+                "link": "/staking-one"
             },
             {
                 "id": 4,
                 "text": "Blog",
-                "link": "/blog"
+                "link": "https://medium.com/@KangaDegens"
             },
             {
                 "id": 5,
