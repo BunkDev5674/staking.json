@@ -166,7 +166,7 @@
     },
     "footer": {
         "img": "/img/logo.png",
-        "copyright": "©2023 Roo Finance, All Rights Reserved By",
+        "copyright": "©2022 Roo Finance, All Rights Reserved By",
         "owner": "Roo Finance",
         "ownerLink": "https://Roo.Finance",
         "socialData": [
@@ -181,8 +181,8 @@
                 "icon": "icon-social-twitter"
             },
             {
-                "id": 4,
-                "link": "https://www.youtube.com/channel/UCkH9DCBcjovuQg3tYbLnYTQ",
+                "id": 3,
+                "link": "https://www.youtube.com/RooFinance",
                 "icon": "icon-social-youtube"
             }
         ],
@@ -207,7 +207,11 @@
                 "text": "Blog",
                 "link": "https://medium.com/@KangaDegens"
             },
-            
+            {
+                "id": 5,
+                "text": "Founder",
+                "link": "https://twitter.com/Cronos_Joey"
+            }
         ]
     }
 }
