@@ -166,7 +166,7 @@
     },
     "footer": {
         "img": "/img/logo.png",
-        "copyright": "©2022 Roo Finance, All Rights Reserved By",
+        "copyright": "©2023 Roo Finance, All Rights Reserved By",
         "owner": "Roo Finance",
         "ownerLink": "https://Roo.Finance",
         "socialData": [
@@ -182,21 +182,11 @@
             },
             {
                 "id": 3,
-                "link": "https://www.linkedin.com/RooFinance",
-                "icon": "icon-social-linkedin"
-            },
-            {
-                "id": 4,
-                "link": "https://www.reddit.com/RooFinance",
-                "icon": "icon-social-reddit"
-            },
-            {
-                "id": 5,
                 "link": "https://discord.com/RooFinance",
                 "icon": "icon-social-vkontakte"
             },
             {
-                "id": 6,
+                "id": 4,
                 "link": "https://www.youtube.com/RooFinance",
                 "icon": "icon-social-youtube"
             }
