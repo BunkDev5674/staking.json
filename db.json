@@ -182,7 +182,7 @@
             },
             {
                 "id": 3,
-                "link": "https://www.youtube.com/RooFinance",
+                "link": "https://www.youtube.com/channel/UCkH9DCBcjovuQg3tYbLnYTQ",
                 "icon": "icon-social-youtube"
             }
         ],
@@ -200,7 +200,7 @@
             {
                 "id": 3,
                 "text": "Staking",
-                "link": "/staking-one"
+                "link": "https://staking.corgistudio.io/pools/v2/639cc5ae10e7e529223d399c"
             },
             {
                 "id": 4,
