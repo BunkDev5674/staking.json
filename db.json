@@ -181,13 +181,8 @@
                 "icon": "icon-social-twitter"
             },
             {
-                "id": 3,
-                "link": "https://discord.com/RooFinance",
-                "icon": "icon-social-vkontakte"
-            },
-            {
                 "id": 4,
-                "link": "https://www.youtube.com/RooFinance",
+                "link": "https://www.youtube.com/channel/UCkH9DCBcjovuQg3tYbLnYTQ",
                 "icon": "icon-social-youtube"
             }
         ],
