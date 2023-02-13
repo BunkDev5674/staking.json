@@ -2,28 +2,28 @@
     "content": {
         "sub_heading": "Project",
         "heading": "Earn Passive Income",
-        "excerpt": "Earn profits from our Game of chance products, Raffles and Scratch cards. As a Pesky Kanga or Kanga Degen NFT holder. You earn 100% of Ecosystem profits.",
+        "excerpt": "As a holder of Pesky Kanga or Kanga Degen NFTs, you are entitled to 100% of the profits generated from our game of chance products such as raffles and scratch cards, as well as from our Launchpad and fees from NFT staking within the ecosystem.",
         "contentData": [
             {
                 "id": 1,
                 "icon": "fa-solid fa-trophy",
                 "featured": "",
                 "title": "Win Big Prizes ",
-                "content": "Have the chance to win huge prizes through our Raffles & Scratch cards."
+                "content": "Take part in opportunities to win substantial prizes through our exciting raffles and scratch cards."
             },
             {
                 "id": 2,
                 "icon": "fa-brands fa-hotjar",
                 "featured": "featured",
                 "title": "Earn Income from shilling",
-                "content": "Earn Cro by shilling the future NFT projects! Everytime someone uses your referal link earn Cro (Coming soon)"
+                "content": "Earn Cro by promoting future NFT projects! Whenever someone uses your referral link, you will receive Cro as a reward (Coming soon)."
             },
             {
                 "id": 3,
                 "icon": "fa-solid fa-rocket",
                 "featured": "",
                 "title": "Start Staking",
-                "content": "Lock up some tokens and earn some high APR"
+                "content": "By staking your NFTs, you can earn tokens from all the fees collected by the ecosystem. This allows you to passively earn rewards and participate in the growth of the platform."
             }
         ]
     },
