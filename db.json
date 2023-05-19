@@ -2,28 +2,28 @@
     "content": {
         "sub_heading": "Project",
         "heading": "Earn Passive Income",
-        "excerpt": "As a holder of Pesky Kanga or Kanga Degen NFTs, you are entitled to 100% of the profits generated from our game of chance products such as raffles and scratch cards, as well as from our Launchpad and fees from NFT staking within the ecosystem.",
+        "excerpt": "Being a proud holder of Pesky Kanga or ROO NFT isn't just a title, it's your ticket to prosperity! You are entitled to a whopping 100% of profits churned out from our exhilarating game of chance products like raffles and scratch cards. But the fun doesn't stop there! You'll also profit from our dynamic Launchpad and the fees derived from NFT staking within our ecosystem. Simply put, owning a Pesky Kanga or Kanga Degen NFT means owning a piece of the action and the profits!",
         "contentData": [
             {
                 "id": 1,
                 "icon": "fa-solid fa-trophy",
                 "featured": "",
                 "title": "Win Big Prizes ",
-                "content": "Take part in opportunities to win substantial prizes through our exciting raffles and scratch cards."
+                "content": "Join the thrill of our exciting raffles and scratch cards - you could walk away with sizable prizes! It's your chance to make your mark and strike it lucky. Dive in and who knows, you might just hit the jackpot!"
             },
             {
                 "id": 2,
                 "icon": "fa-brands fa-hotjar",
                 "featured": "featured",
                 "title": "Earn Income from shilling",
-                "content": "Earn Cro by promoting future NFT projects! Whenever someone uses your referral link, you will receive Cro as a reward "
+                "content": "Boost your earnings with Cro just by spreading the word about upcoming NFT projects! Use your unique referral link, and for each person who follows it, we'll drop a Cro reward right into your account. It's as easy as share, refer, earn!"
             },
             {
                 "id": 3,
                 "icon": "fa-solid fa-rocket",
                 "featured": "",
                 "title": "Start Staking",
-                "content": "By staking your NFTs, you can earn tokens from all the fees collected by the ecosystem. This allows you to passively earn rewards and participate in the growth of the platform."
+                "content": "Unlock a world of rewards by staking your NFTs with us! This enables you to earn tokens tied to the ecosystem's collected fees, providing a passive income while you actively contribute to our platform's growth. Stake, earn, grow - it's as simple as that!"
             }
         ]
     },
@@ -199,8 +199,8 @@
             },
             {
                 "id": 3,
-                "text": "Staking",
-                "link": "https://staking.roo.finance/"
+                "text": "Staking Application",
+                "link": "https://forms.gle/stsBdKN3hrMdWPHNA"
             },
             {
                 "id": 4,
