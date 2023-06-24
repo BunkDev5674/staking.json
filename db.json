@@ -1,225 +1,225 @@
 {
-  "sub_heading": "Project",
-  "heading": "Earn Passive Income",
-  "excerpt": "Being a proud holder of Rebel Kanga or ROO NFT isn't just a title, it's your ticket to being part of our DAO! You are entitled to a whopping 100% of profits churned out from our exhilarating game of chance products like raffles and scratch cards. But the fun doesn't stop there! You'll also profit from our dynamic Launchpad and the fees derived from NFT staking within our ecosystem. Simply put, owning a Pesky Kanga or Kanga Degen NFT means owning a piece of the action and the profits!",
-  "project_explanation": "Welcome to Roo Finance! We are a community-focused initiative that aims to provide income opportunities and value growth through staking and NFTs. Our project operates as a DAO (Decentralized Autonomous Organization), which means that our members have the power to shape and influence the project's direction.\n\nAt Roo Finance, we prioritize serving the needs of our investors by offering equitable income opportunities. We distribute 100% of profits back to our token holders, ensuring that the success of the project benefits the community as a whole. To maintain long-term sustainability, we invest in tools and services that generate fees, which contribute to our treasury.",
-  "project_risks": "Please note that Roo Finance is an experimental, DAO-style project built with good intentions. While we strive for long-term gains and success for everyone involved, it's crucial to understand that any investment carries risks. We encourage you to only invest what you can afford to lose.\n\nFunds raised through investments are directed towards development and converting our utilities into profits. However, the success of this community-driven project relies on the active involvement and support of its members. We depend on the collective efforts of the community to build and support the project for it to prosper.\n\nBefore making any investment, we urge you to thoroughly understand the associated risks and ensure that you are prepared to actively contribute to the growth and success of the project. Together, we can create a thriving ecosystem and enjoy the rewards it brings.",
-  "contentData": [
-    {
-      "id": 1,
-      "icon": "fa-solid fa-trophy",
-      "featured": "",
-      "title": "Win Big Prizes",
-      "content": "Join the thrill of our exciting raffles and scratch cards - you could walk away with sizable prizes! It's your chance to make your mark and strike it lucky. Dive in and who knows, you might just hit the jackpot!"
-    },
-    {
-      "id": 2,
-      "icon": "fa-brands fa-hotjar",
-      "featured": "featured",
-      "title": "Earn Income from Shilling",
-      "content": "Boost your earnings with ROO just by spreading the word about upcoming NFT projects! Use your unique referral link, and for each person who follows it, we'll drop a $Cro reward right into your wallet. It's as easy as share, refer, earn!"
-    },
-    {
-      "id": 3,
-      "icon": "fa-solid fa-rocket",
-      "featured": "",
-      "title": "Start Staking",
-      "content": "Unlock a world of rewards by staking your NFTs with us! This enables you to earn tokens tied to the ecosystem's collected fees, providing a passive income while you actively contribute to our platform's growth. Stake, earn, grow - it's as simple as that!"
-    }
-  ]
-}
-
-    "work": {
-        "sub_heading": "How It Works",
-        "heading": "How To Participate",
-        "workData": [
-            {
-                "id": 1,
-                "icon": "icons icon-drawer text-effect",
-                "title": "Submit KYC",
-                "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
-            },
-            {
-                "id": 2,
-                "icon": "icons icon-wallet text-effect",
-                "title": "Verify Wallet",
-                "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
-            },
-            {
-                "id": 3,
-                "icon": "icons icon-fire text-effect",
-                "title": "Start Staking",
-                "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
-            }
-        ]
-    },
-    "cta": {
-        "sub_heading": "How It Works",
-        "heading": "How To Participate",
-        "img": "/img/cta_thumb.png",
-        "title": "Join the discord",
-        "content": "Join if you're daring enough",
-        "btn": " Join Now",
-        "btnIcon": "fa-brands fa-discord"
-    },
-    "staking": {
-        "heading": "Roo Stake",
-        "balance": "TBC",
-        "content": "Once staked, Your tokens are locked until the selected time",
-        "note": "*APR is dynamic.",
-        "input_btn_1": "Approve",
-        "input_btn_2": "Withdraw",
-        "tabData": [
-            {
-                "id": 1,
-                "tabID": "tab-one-tab",
-                "tabClass": "tab-link active",
-                "tabLink": "#tab-one",
-                "title": "07 Days"
-            },
-            {
-                "id": 2,
-                "tabID": "tab-two-tab",
-                "tabClass": "tab-link",
-                "tabLink": "#tab-two",
-                "title": "14 Days"
-            },
-            {
-                "id": 3,
-                "tabID": "tab-three-tab",
-                "tabClass": "tab-link",
-                "tabLink": "#tab-three",
-                "title": "30 Days"
-            },
-            {
-                "id": 4,
-                "tabID": "tab-four-tab",
-                "tabClass": "tab-link",
-                "tabLink": "#tab-four",
-                "title": "60 Days"
-            }
-        ],
-        "tabContent": [
-            {
-                "id": 1,
-                "tabID": "tab-one",
-                "tabClass": "tab-pane fade show active",
-                "tabLink": "tab-one",
-                "period": "7 Days",
-                "lock": "Yes",
-                "fee": "30%",
-                "status": "Unlocked",
-                "apy": "0%"
-            },
-            {
-                "id": 2,
-                "tabID": "tab-two",
-                "tabClass": "tab-pane fade",
-                "tabLink": "tab-two",
-                "period": "14 Days",
-                "lock": "Yes",
-                "fee": "30%",
-                "status": "Unlocked",
-                "apy": "12%"
-            },
-            {
-                "id": 3,
-                "tabID": "tab-three",
-                "tabClass": "tab-pane fade",
-                "tabLink": "tab-three",
-                "period": "30 Days",
-                "lock": "Yes",
-                "fee": "30%",
-                "status": "Unlocked",
-                "apy": "25%"
-            },
-            {
-                "id": 4,
-                "tabID": "tab-four",
-                "tabClass": "tab-pane fade",
-                "tabLink": "tab-four",
-                "period": "60 Days",
-                "lock": "No",
-                "fee": "30%",
-                "status": "Unlocked",
-                "apy": "35%"
-            }
-        ],
-        "features": [
-            {
-                "id": 1,
-                "title": "$0",
-                "className": "card no-hover staking-card",
-                "content": "Total Value Locked"
-            },
-            {
-                "id": 2,
-                "title": "0%",
-                "className": "card no-hover staking-card my-4",
-                "content": "APR"
-            },
-            {
-                "id": 3,
-                "title": "0",
-                "className": "card no-hover staking-card",
-                "content": "Number of Stakers"
-            }
-        ]
-    },
-    "footer": {
-        "img": "/img/logo.png",
-        "copyright": "©2023 Roo Finance, All Rights Reserved By",
-        "owner": "Roo Finance",
-        "ownerLink": "https://Roo.Finance",
-        "socialData": [
-            {
-                "id": 1,
-                "link": "https://www.facebook.com/profile.php?id=100087503031319",
-                "icon": "icon-social-facebook"
-            },
-            {
-                "id": 2,
-                "link": "https://twitter.com/RooFinance",
-                "icon": "icon-social-twitter"
-            },
-            {
-                "id": 3,
-                "link": "https://www.youtube.com/channel/UCkH9DCBcjovuQg3tYbLnYTQ",
-                "icon": "icon-social-youtube"
-            }
-        ],
-        "widgetData": [
-    {
+  "content": {
+    "sub_heading": "Project",
+    "heading": "Earn Passive Income",
+    "excerpt": "Being a proud holder of Rebel Kanga or ROO NFT isn't just a title, it's your ticket to being part of our DAO! You are entitled to a whopping 100% of profits churned out from our exhilarating game of chance products like raffles and scratch cards. But the fun doesn't stop there! You'll also profit from our dynamic Launchpad and the fees derived from NFT staking within our ecosystem. Simply put, owning a Pesky Kanga or Kanga Degen NFT means owning a piece of the action and the profits!",
+    "project_explanation": "Welcome to Roo Finance! We are a community-focused initiative that aims to provide income opportunities and value growth through staking and NFTs. Our project operates as a DAO (Decentralized Autonomous Organization), which means that our members have the power to shape and influence the project's direction.\n\nAt Roo Finance, we prioritize serving the needs of our investors by offering equitable income opportunities. We distribute 100% of profits back to our token holders, ensuring that the success of the project benefits the community as a whole. To maintain long-term sustainability, we invest in tools and services that generate fees, which contribute to our treasury.",
+    "project_risks": "Please note that Roo Finance is an experimental, DAO-style project built with good intentions. While we strive for long-term gains and success for everyone involved, it's crucial to understand that any investment carries risks. We encourage you to only invest what you can afford to lose.\n\nFunds raised through investments are directed towards development and converting our utilities into profits. However, the success of this community-driven project relies on the active involvement and support of its members. We depend on the collective efforts of the community to build and support the project for it to prosper.\n\nBefore making any investment, we urge you to thoroughly understand the associated risks and ensure that you are prepared to actively contribute to the growth and success of the project. Together, we can create a thriving ecosystem and enjoy the rewards it brings!",
+    "contentData": [
+      {
+        "id": 1,
+        "icon": "fa-solid fa-trophy",
+        "featured": "",
+        "title": "Win Big Prizes",
+        "content": "Join the thrill of our exciting raffles and scratch cards - you could walk away with sizable prizes! It's your chance to make your mark and strike it lucky. Dive in and who knows, you might just hit the jackpot!"
+      },
+      {
+        "id": 2,
+        "icon": "fa-brands fa-hotjar",
+        "featured": "featured",
+        "title": "Earn Income from Shilling",
+        "content": "Boost your earnings with ROO just by spreading the word about upcoming NFT projects! Use your unique referral link, and for each person who follows it, we'll drop a $Cro reward right into your wallet. It's as easy as share, refer, earn!"
+      },
+      {
+        "id": 3,
+        "icon": "fa-solid fa-rocket",
+        "featured": "",
+        "title": "Start Staking",
+        "content": "Unlock a world of rewards by staking your NFTs with us! This enables you to earn tokens tied to the ecosystem's collected fees, providing a passive income while you actively contribute to our platform's growth. Stake, earn, grow - it's as simple as that!"
+      }
+    ]
+  },
+  "work": {
+    "sub_heading": "How It Works",
+    "heading": "How To Participate",
+    "workData": [
+      {
+        "id": 1,
+        "icon": "icons icon-drawer text-effect",
+        "title": "Submit KYC",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
+      },
+      {
+        "id": 2,
+        "icon": "icons icon-wallet text-effect",
+        "title": "Verify Wallet",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
+      },
+      {
+        "id": 3,
+        "icon": "icons icon-fire text-effect",
+        "title": "Start Staking",
+        "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
+      }
+    ]
+  },
+  "cta": {
+    "sub_heading": "How It Works",
+    "heading": "How To Participate",
+    "img": "/img/cta_thumb.png",
+    "title": "Join the discord",
+    "content": "Join if you're daring enough",
+    "btn": "Join Now",
+    "btnIcon": "fa-brands fa-discord"
+  },
+  "staking": {
+    "heading": "Roo Stake",
+    "balance": "TBC",
+    "content": "Once staked, Your tokens are locked until the selected time",
+    "note": "*APR is dynamic.",
+    "input_btn_1": "Approve",
+    "input_btn_2": "Withdraw",
+    "tabData": [
+      {
+        "id": 1,
+        "tabID": "tab-one-tab",
+        "tabClass": "tab-link active",
+        "tabLink": "#tab-one",
+        "title": "07 Days"
+      },
+      {
+        "id": 2,
+        "tabID": "tab-two-tab",
+        "tabClass": "tab-link",
+        "tabLink": "#tab-two",
+        "title": "14 Days"
+      },
+      {
+        "id": 3,
+        "tabID": "tab-three-tab",
+        "tabClass": "tab-link",
+        "tabLink": "#tab-three",
+        "title": "30 Days"
+      },
+      {
+        "id": 4,
+        "tabID": "tab-four-tab",
+        "tabClass": "tab-link",
+        "tabLink": "#tab-four",
+        "title": "60 Days"
+      }
+    ],
+    "tabContent": [
+      {
+        "id": 1,
+        "tabID": "tab-one",
+        "tabClass": "tab-pane fade show active",
+        "tabLink": "tab-one",
+        "period": "7 Days",
+        "lock": "Yes",
+        "fee": "30%",
+        "status": "Unlocked",
+        "apy": "0%"
+      },
+      {
+        "id": 2,
+        "tabID": "tab-two",
+        "tabClass": "tab-pane fade",
+        "tabLink": "tab-two",
+        "period": "14 Days",
+        "lock": "Yes",
+        "fee": "30%",
+        "status": "Unlocked",
+        "apy": "12%"
+      },
+      {
+        "id": 3,
+        "tabID": "tab-three",
+        "tabClass": "tab-pane fade",
+        "tabLink": "tab-three",
+        "period": "30 Days",
+        "lock": "Yes",
+        "fee": "30%",
+        "status": "Unlocked",
+        "apy": "25%"
+      },
+      {
+        "id": 4,
+        "tabID": "tab-four",
+        "tabClass": "tab-pane fade",
+        "tabLink": "tab-four",
+        "period": "60 Days",
+        "lock": "No",
+        "fee": "30%",
+        "status": "Unlocked",
+        "apy": "35%"
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "title": "$0",
+        "className": "card no-hover staking-card",
+        "content": "Total Value Locked"
+      },
+      {
+        "id": 2,
+        "title": "0%",
+        "className": "card no-hover staking-card my-4",
+        "content": "APR"
+      },
+      {
+        "id": 3,
+        "title": "0",
+        "className": "card no-hover staking-card",
+        "content": "Number of Stakers"
+      }
+    ]
+  },
+  "footer": {
+    "img": "/img/logo.png",
+    "copyright": "©2023 Roo Finance, All Rights Reserved By",
+    "owner": "Roo Finance",
+    "ownerLink": "https://Roo.Finance",
+    "socialData": [
+      {
+        "id": 1,
+        "link": "https://www.facebook.com/profile.php?id=100087503031319",
+        "icon": "icon-social-facebook"
+      },
+      {
+        "id": 2,
+        "link": "https://twitter.com/RooFinance",
+        "icon": "icon-social-twitter"
+      },
+      {
+        "id": 3,
+        "link": "https://www.youtube.com/channel/UCkH9DCBcjovuQg3tYbLnYTQ",
+        "icon": "icon-social-youtube"
+      }
+    ],
+    "widgetData": [
+      {
         "id": 1,
         "text": "Projects",
         "link": "/projects"
-    },
-    {
+      },
+      {
         "id": 2,
         "text": "Roadmap",
         "link": "https://roo-finance.gitbook.io/roadmap./"
-    },
-    {
+      },
+      {
         "id": 3,
         "text": "Staking Application",
         "link": "https://forms.gle/stsBdKN3hrMdWPHNA"
-    },
-    {
+      },
+      {
         "id": 4,
         "text": "Blog",
         "link": "https://medium.com/@KangaDegens"
-    },
-    {
+      },
+      {
         "id": 5,
         "text": "Founder",
         "link": "https://medium.com/@KangaDegens/team-of-roo-finance-6aab1398712"
-    },
-    {
+      },
+      {
         "id": 6,
         "text": "Built With Moralis",
         "link": "https://moralis.io/"
-    }
-]
-
-    }
+      }
+    ]
+  }
 }
+
