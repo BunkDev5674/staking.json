@@ -1,32 +1,34 @@
 {
-    "content": {
-        "sub_heading": "Project",
-        "heading": "Earn Passive Income",
-        "excerpt": "Being a proud holder of Rebel Kanga or ROO NFT isn't just a title, it's your ticket to being part of our DAO! You are entitled to a whopping 100% of profits churned out from our exhilarating game of chance products like raffles and scratch cards. But the fun doesn't stop there! You'll also profit from our dynamic Launchpad and the fees derived from NFT staking within our ecosystem. Simply put, owning a Pesky Kanga or Kanga Degen NFT means owning a piece of the action and the profits!",
-        "contentData": [
-            {
-                "id": 1,
-                "icon": "fa-solid fa-trophy",
-                "featured": "",
-                "title": "Win Big Prizes ",
-                "content": "Join the thrill of our exciting raffles and scratch cards - you could walk away with sizable prizes! It's your chance to make your mark and strike it lucky. Dive in and who knows, you might just hit the jackpot!"
-            },
-            {
-                "id": 2,
-                "icon": "fa-brands fa-hotjar",
-                "featured": "featured",
-                "title": "Earn Income from shilling",
-                "content": "Boost your earnings with ROO just by spreading the word about upcoming NFT projects! Use your unique referral link, and for each person who follows it, we'll drop a $Cro reward right into your wallet. It's as easy as share, refer, earn!"
-            },
-            {
-                "id": 3,
-                "icon": "fa-solid fa-rocket",
-                "featured": "",
-                "title": "Start Staking",
-                "content": "Unlock a world of rewards by staking your NFTs with us! This enables you to earn tokens tied to the ecosystem's collected fees, providing a passive income while you actively contribute to our platform's growth. Stake, earn, grow - it's as simple as that!"
-            }
-        ]
+  "sub_heading": "Project",
+  "heading": "Earn Passive Income",
+  "excerpt": "Being a proud holder of Rebel Kanga or ROO NFT isn't just a title, it's your ticket to being part of our DAO! You are entitled to a whopping 100% of profits churned out from our exhilarating game of chance products like raffles and scratch cards. But the fun doesn't stop there! You'll also profit from our dynamic Launchpad and the fees derived from NFT staking within our ecosystem. Simply put, owning a Pesky Kanga or Kanga Degen NFT means owning a piece of the action and the profits!",
+  "project_explanation": "Welcome to Roo Finance! We are a community-focused initiative that aims to provide income opportunities and value growth through staking and NFTs. Our project operates as a DAO (Decentralized Autonomous Organization), which means that our members have the power to shape and influence the project's direction.\n\nAt Roo Finance, we prioritize serving the needs of our investors by offering equitable income opportunities. We distribute 100% of profits back to our token holders, ensuring that the success of the project benefits the community as a whole. To maintain long-term sustainability, we invest in tools and services that generate fees, which contribute to our treasury.",
+  "project_risks": "Please note that Roo Finance is an experimental, DAO-style project built with good intentions. While we strive for long-term gains and success for everyone involved, it's crucial to understand that any investment carries risks. We encourage you to only invest what you can afford to lose.\n\nFunds raised through investments are directed towards development and converting our utilities into profits. However, the success of this community-driven project relies on the active involvement and support of its members. We depend on the collective efforts of the community to build and support the project for it to prosper.\n\nBefore making any investment, we urge you to thoroughly understand the associated risks and ensure that you are prepared to actively contribute to the growth and success of the project. Together, we can create a thriving ecosystem and enjoy the rewards it brings.",
+  "contentData": [
+    {
+      "id": 1,
+      "icon": "fa-solid fa-trophy",
+      "featured": "",
+      "title": "Win Big Prizes",
+      "content": "Join the thrill of our exciting raffles and scratch cards - you could walk away with sizable prizes! It's your chance to make your mark and strike it lucky. Dive in and who knows, you might just hit the jackpot!"
     },
+    {
+      "id": 2,
+      "icon": "fa-brands fa-hotjar",
+      "featured": "featured",
+      "title": "Earn Income from Shilling",
+      "content": "Boost your earnings with ROO just by spreading the word about upcoming NFT projects! Use your unique referral link, and for each person who follows it, we'll drop a $Cro reward right into your wallet. It's as easy as share, refer, earn!"
+    },
+    {
+      "id": 3,
+      "icon": "fa-solid fa-rocket",
+      "featured": "",
+      "title": "Start Staking",
+      "content": "Unlock a world of rewards by staking your NFTs with us! This enables you to earn tokens tied to the ecosystem's collected fees, providing a passive income while you actively contribute to our platform's growth. Stake, earn, grow - it's as simple as that!"
+    }
+  ]
+}
+
     "work": {
         "sub_heading": "How It Works",
         "heading": "How To Participate",
