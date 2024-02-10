@@ -6,11 +6,6 @@
         "socialData": [
             {
                 "id": 1,
-                "link": "https://discord.gg/JxX3HbFRpZ",
-                "icon": "icon-social-discord"
-            },
-            {
-                "id": 2,
                 "link": "https://twitter.com/Donkey__Finance",
                 "icon": "icon-social-twitter"
             }
