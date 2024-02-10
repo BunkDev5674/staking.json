@@ -11,21 +11,21 @@
             }
         ],
         "widgetData": [
-  {
-    "id": 1,
-    "text": "Mint",
-    "link": "https://roo.finance/projects",
-  },
-  {
-    "id": 2,
-    "text": "Roadmap",
-    "link": "https://roo-finance.gitbook.io/roadmap./",
-  },
-  {
-    "id": 3,
-    "text": "Blog",
-    "link": "https://medium.com/@KangaDegens",
-  },
+    {
+        "id": 1,
+        "text": "Projects",
+        "link": "/projects"
+    },
+    {
+        "id": 2,
+        "text": "Roadmap",
+        "link": "https://roo-finance.gitbook.io/roadmap./"
+    },
+    {
+        "id": 3,
+        "text": "Blog",
+        "link": "https://medium.com/@KangaDegens"
+    },
 ]
 
     }
